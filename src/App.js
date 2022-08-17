@@ -10,7 +10,7 @@ function App() {
       <Sidebar />
       <Hero />
       <Submenu />
-    </>
+    </> 
   )
 }
 
